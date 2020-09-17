@@ -40,6 +40,15 @@ Attempting to get key|value pairs::
 ::Attempt complete
 ```
 
+```javascript
+pt("The value of Example Object is: ", exampleObject);
+```
+Result:
+```
+The value of Example Object is: 5,10,Example,0
+```
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
