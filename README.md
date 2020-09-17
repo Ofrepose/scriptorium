@@ -10,11 +10,11 @@ Simply import into your project
 pt("description to print", <objectYouDescribed[optional]>, <debug[boolean-optional]>);\
 ie: const exampleObject = [5, 10, "Example", 0];
 
-```
+```javascript
 pt("The value of Example Object is: ", exampleObject, true);
 ```
 Result:
-```javascript
+```
 Debug Name:: The value of Example Object is: 
 
 Type: object
