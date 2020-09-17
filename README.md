@@ -39,7 +39,7 @@ Attempting to get key|value pairs::
 6: e
 ::Attempt complete
 ```
-
+Or:
 ```javascript
 pt("The value of Example Object is: ", exampleObject);
 ```
